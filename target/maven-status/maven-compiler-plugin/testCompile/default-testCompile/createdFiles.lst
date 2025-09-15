@@ -1,0 +1,11 @@
+com\ecommerce\pages\LogoutPage.class
+com\ecommerce\pages\CartPage.class
+com\ecommerce\base\BaseTest.class
+com\ecommerce\tests\LoginTest.class
+com\ecommerce\tests\FilterTest.class
+com\ecommerce\tests\CartTest.class
+com\ecommerce\tests\CheckoutTest.class
+com\ecommerce\pages\CheckoutPage.class
+com\ecommerce\pages\LoginPage.class
+com\ecommerce\tests\LogoutTest.class
+com\ecommerce\pages\ProductsPage.class

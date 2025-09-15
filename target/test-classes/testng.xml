@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Ecommerce Test Suite" verbose="1" >
+    <test name="E-commerce Automation Tests">
+        <classes>
+            <class name="com.ecommerce.tests.LoginTest" />
+            <class name="com.ecommerce.tests.FilterTest" />
+            <class name="com.ecommerce.tests.CartTest" />
+            <class name="com.ecommerce.tests.CheckoutTest" />
+            <class name="com.ecommerce.tests.LogoutTest" />
+        </classes>
+    </test>
+</suite>

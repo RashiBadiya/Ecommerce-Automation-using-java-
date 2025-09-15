@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-15T13:44:08 IST" name="Ecommerce Test Suite" finished-at="2025-09-15T13:44:30 IST" duration-ms="21597">
+    <groups>
+    </groups>
+    <test started-at="2025-09-15T13:44:08 IST" name="E-commerce Automation Tests" finished-at="2025-09-15T13:44:30 IST" duration-ms="21597">
+      <class name="com.ecommerce.tests.CheckoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.tests.CheckoutTest@61230f6a]" started-at="2025-09-15T13:44:23 IST" name="setup" finished-at="2025-09-15T13:44:23 IST" duration-ms="768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCheckoutProcess()[pri:0, instance:com.ecommerce.tests.CheckoutTest@61230f6a]" started-at="2025-09-15T13:44:23 IST" name="testCheckoutProcess" description="TestCase04: Checkout Functionality" finished-at="2025-09-15T13:44:27 IST" duration-ms="3596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutProcess -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ecommerce.tests.CheckoutTest@61230f6a]" started-at="2025-09-15T13:44:27 IST" name="teardown" finished-at="2025-09-15T13:44:27 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ecommerce.tests.CheckoutTest -->
+      <class name="com.ecommerce.tests.FilterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.tests.FilterTest@3c419631]" started-at="2025-09-15T13:44:16 IST" name="setup" finished-at="2025-09-15T13:44:17 IST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testFilterByPriceAscending()[pri:0, instance:com.ecommerce.tests.FilterTest@3c419631]" started-at="2025-09-15T13:44:17 IST" name="testFilterByPriceAscending" finished-at="2025-09-15T13:44:18 IST" duration-ms="1736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilterByPriceAscending -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ecommerce.tests.FilterTest@3c419631]" started-at="2025-09-15T13:44:18 IST" name="teardown" finished-at="2025-09-15T13:44:18 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ecommerce.tests.FilterTest -->
+      <class name="com.ecommerce.tests.LogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.tests.LogoutTest@3c130745]" started-at="2025-09-15T13:44:27 IST" name="setup" finished-at="2025-09-15T13:44:28 IST" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogoutFunctionality()[pri:0, instance:com.ecommerce.tests.LogoutTest@3c130745]" started-at="2025-09-15T13:44:28 IST" name="testLogoutFunctionality" description="TestCase05: Verify Logout Functionality" finished-at="2025-09-15T13:44:30 IST" duration-ms="1763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoutFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ecommerce.tests.LogoutTest@3c130745]" started-at="2025-09-15T13:44:30 IST" name="teardown" finished-at="2025-09-15T13:44:30 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ecommerce.tests.LogoutTest -->
+      <class name="com.ecommerce.tests.CartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.tests.CartTest@418e7838]" started-at="2025-09-15T13:44:18 IST" name="setup" finished-at="2025-09-15T13:44:19 IST" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAddToCartFunctionality()[pri:0, instance:com.ecommerce.tests.CartTest@418e7838]" started-at="2025-09-15T13:44:19 IST" name="testAddToCartFunctionality" description="TestCase03: Add to Cart Functionality" finished-at="2025-09-15T13:44:22 IST" duration-ms="3186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCartFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ecommerce.tests.CartTest@418e7838]" started-at="2025-09-15T13:44:22 IST" name="teardown" finished-at="2025-09-15T13:44:23 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ecommerce.tests.CartTest -->
+      <class name="com.ecommerce.tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.tests.LoginTest@5ccddd20]" started-at="2025-09-15T13:44:09 IST" name="setup" finished-at="2025-09-15T13:44:11 IST" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLoginFunctionality()[pri:0, instance:com.ecommerce.tests.LoginTest@5ccddd20]" started-at="2025-09-15T13:44:11 IST" name="testLoginFunctionality" description="TestCase01: Verify Login Functionality with valid credentials" finished-at="2025-09-15T13:44:13 IST" duration-ms="1896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ecommerce.tests.LoginTest@5ccddd20]" started-at="2025-09-15T13:44:13 IST" name="teardown" finished-at="2025-09-15T13:44:13 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ecommerce.tests.LoginTest@5ccddd20]" started-at="2025-09-15T13:44:13 IST" name="setup" finished-at="2025-09-15T13:44:14 IST" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLoginWithInvalidCredentials()[pri:0, instance:com.ecommerce.tests.LoginTest@5ccddd20]" started-at="2025-09-15T13:44:14 IST" name="testLoginWithInvalidCredentials" description="TestCase01: Verify Login Functionality with invalid credentials" finished-at="2025-09-15T13:44:15 IST" duration-ms="1663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ecommerce.tests.LoginTest@5ccddd20]" started-at="2025-09-15T13:44:15 IST" name="teardown" finished-at="2025-09-15T13:44:16 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ecommerce.tests.LoginTest -->
+    </test> <!-- E-commerce Automation Tests -->
+  </suite> <!-- Ecommerce Test Suite -->
+</testng-results>
